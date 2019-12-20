@@ -1,0 +1,2 @@
+# FlatfairSqlTask
+SQL task
